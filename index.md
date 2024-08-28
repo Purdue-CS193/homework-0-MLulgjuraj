@@ -1,38 +1,13 @@
-## Welcome to GitHub Pages
+# Matthew Lulgjuraj's First CS193 Homework
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Things I have to say that I love about CS193
+- I like the supportive images added with overlayed subtext, creating a combined understanding to both send a message, and, at times, create humor.
+<sub>_memes... I was talking about the memes._</sub>
+- The lecturer is pretty good at lecturing; I think he has a name too, which is pretty cool. The lecturer genuine, and that's what I like.
+- uhhh... I really like the chairs used in this class. There are pretty cool stairs in the room as well. Definitely my favorite things about CS193 right there.
+- I also like how the person grading this is reading through all of this for no reason at all.
+- Additionally, I like how I get to write this bullet point as a filler sentence that adds nothing to the assignment!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-Hey, you should [Click me!](https://www.google.com/search?q=hey+there&sourceid=chrome&ie=UTF-8) No reason not to, really.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Wow! You read through all of that! As a reward: here's a video of a [kitten doing a backflip](https://bit.ly/KittenDoingABackflip) that I probably could've imported here directly... oh well.
