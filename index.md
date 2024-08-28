@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+Hey, you should [Click me!](https://www.google.com/search?q=hey+there&sourceid=chrome&ie=UTF-8) No reason not to, really.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
